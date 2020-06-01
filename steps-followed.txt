@@ -1,0 +1,9 @@
+Please find the below mentioned steps used to develop this TDD based String calculator:
+
+* An empty string should return a zero(0).
+* If a single number is passed as argument, it should return the same number as value.
+* If two numbers with comma(delimiter) separated is passed, function should return their sum.
+* If two numbers with new line(delimiter) is passed, function should return their sum.
+* Three numbers as input string with a delimiter should return their sum.
+* Negative numbers should throw an exception.
+* Numbers bigger than 1000 should be ignored.
