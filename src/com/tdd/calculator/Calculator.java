@@ -4,9 +4,9 @@ public class Calculator {
 
 // Method for testing our method for desired output
  
-	public static void main(String args[]) {
-		System.out.println("result: " + add("//@\n1@2"));
-	}
+//	public static void main(String args[]) {
+//		System.out.println("result: " + add("//@\n1@2"));
+//	}
 
 //	main method for performing addition of passed arguments
 	public static int add(String text) {
